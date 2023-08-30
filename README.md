@@ -6,3 +6,10 @@
 Output Screenshots 
 
 ![Screenshot 2023-08-30 184821](https://github.com/Rakesh919/Car-vs-Plane-/assets/114251909/4c18d2f5-73a7-494d-a9f7-7c029b8c8599)
+
+
+---------------------------------------------------------
+
+---------------------------------------------------------
+
+![Screenshot 2023-08-30 184849](https://github.com/Rakesh919/Car-vs-Plane-/assets/114251909/7b97cb97-e5f4-45a9-8a1a-207e2b9b520d)
